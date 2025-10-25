@@ -1,1 +1,2 @@
-print("Hi i am alpha")
+a=int(input())
+print(a)
